@@ -1,0 +1,22 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    padding: 40px 0;
+    text-align: center;
+}
+.container img {
+    margin: 0;
+    max-width: 30%;
+    width: 175px;
+}
+.video {
+  padding: 0;
+  background: #2c2222;
+}
+.video iframe {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
